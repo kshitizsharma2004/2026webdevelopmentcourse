@@ -1,0 +1,30 @@
+
+.but{
+    text-shadow: bisque;
+    font-weight: 500;
+}
+.p{
+  color: brown;
+    
+}
+#s{
+    color: blueviolet;
+    font-size: 50px;
+}
+*{
+    background-color: yellow;
+}
+.p1{
+    text-align: left;
+    border: 2px;
+    border: solid;
+    margin: 50px;
+    padding-top: 20px;
+    text-decoration: dotted;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+#id{
+    font-weight: 200;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
