@@ -1,0 +1,18 @@
+#d{
+    height: 100px;
+    background-color: brown;
+    border: 3px solid red;
+    padding: 50px;
+    margin: 50px;
+    width: 100px;
+    text-align: right;
+    border-radius: 40%;
+}
+.d{
+    border: 2px solid green;
+    background-color: burlywood;
+text-align: center;
+border-radius: 10px;
+padding: 1px 2px 3px 5px;
+
+}
